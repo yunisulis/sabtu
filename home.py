@@ -129,18 +129,6 @@ col1, = st.columns(1)
 with col1:
     st.subheader("Menjadi Panitia Dekdok Dekorasi Dokumentasi")
 
-
-
-
-import streamlit as st
-
-
-
-st.set_page_config(
-    page_title="medsos | YUNI",
-    page_icon="♥️",
-    layout="wide"
-)
 st.title("MY MEDIA SOCIAL ")
 st.subheader("don't forget follow me guys👇")
 
